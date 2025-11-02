@@ -1,7 +1,7 @@
 Hi, I'm Julia.
 
 ### About
-Previously, I worked at JetBrains, constributing to several projects including [Meta Programming System](https://www.jetbrains.com/mps/), [IntellJ IDEA](https://www.jetbrains.com/idea/) and [KotlinDL](https://github.com/Kotlin/kotlindl). Now I'm doing my masters at TU Darmstadt, focusing on robotics and quantum information science.
+Previously, I worked at JetBrains, contributing to several projects, including [Meta Programming System](https://www.jetbrains.com/mps/), [IntellJ IDEA](https://www.jetbrains.com/idea/) and [KotlinDL](https://github.com/Kotlin/kotlindl). Now I'm doing my masters at TU Darmstadt, focusing on robotics and quantum information science.
 
 ### Tech Stack
 <div align="center">
