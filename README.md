@@ -9,8 +9,4 @@ Previously, I worked at JetBrains, contributing to several projects, including [
 </div>
 
 ### Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juliabeliaeva&count_private=true&theme=graywhite&hide=stars,contribs&show_icons=true&include_all_commits=true&hide_rank=true&border_radius=0" alt="My stats"/>
-</div>
-
 [![My activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juliabeliaeva&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
