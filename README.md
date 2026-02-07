@@ -14,4 +14,4 @@ Previously, I worked at JetBrains, contributing to several projects, including [
 ### Quantum Presentations
 
 * Multipartite Entanglement: PPT Mixture [[Slides](https://juliabeliaeva.github.io/ppt-mixture/)]
-* Joint Measurability of Noisy Qubit POVMs [[Slides](https://4d583866-d89e-4c7f-8f90-f903d9f3e289.plotly.app)]
+* Joint Measurability of Noisy Qubit POVMs [[Web App](https://4d583866-d89e-4c7f-8f90-f903d9f3e289.plotly.app)]
