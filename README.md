@@ -8,9 +8,6 @@ Previously, I worked at JetBrains, contributing to several projects, including [
   <img src="https://skillicons.dev/icons?i=java,kotlin,python,latex,git,idea,ros,tensorflow,pytorch" alt="My skills"/>
 </div>
 
-### Stats
-[![My activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juliabeliaeva&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ### Quantum Presentations
 
 * Multipartite Entanglement: PPT Mixture [[Slides](https://juliabeliaeva.github.io/ppt-mixture/)]
